@@ -1,0 +1,23 @@
+.agents/
+tools/
+
+# Se publican solamente los recursos usados por Florencia.
+assets/*
+!assets/fonts/
+!assets/fonts/**
+!assets/intro-zoe/
+!assets/intro-zoe/**
+!assets/portada-florencia-final-v3.png
+!assets/countdown-florencia-final-v3.png
+!assets/mensaje-florencia.png
+!assets/fecha-florencia.png
+!assets/ubicacion-florencia.png
+!assets/ubicacion-modal-florencia-v2.png
+!assets/dress-code-florencia.png
+!assets/regalos-florencia.png
+!assets/modal-regalos-florencia.png
+!assets/musica-florencia.png
+!assets/musica-florencia-sin-aguja.png
+!assets/rsvp-florencia.png
+!assets/flor-musica.png
+!assets/musica-julia.mp3
