@@ -1416,6 +1416,6 @@ body.intro-is-open .audio-flower {
 .music-section__add,
 .gifts-section__open,
 .rsvp-section__link {
-  background: rgb(199 137 120 / 42%);
-  mix-blend-mode: color;
+  background: transparent;
+  mix-blend-mode: normal;
 }
