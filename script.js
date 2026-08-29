@@ -1,5 +1,4 @@
-// La hora queda provisoriamente a las 21:00 hasta recibir el horario definitivo.
-const eventDate = new Date("2026-10-03T21:00:00-03:00");
+const eventDate = new Date("2026-10-03T22:00:00-03:00");
 
 const fields = {
   days: document.querySelector("#days"),
