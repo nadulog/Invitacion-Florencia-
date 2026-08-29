@@ -531,17 +531,15 @@ body.intro-locked {
 
 .rsvp-section__link {
   position: absolute;
-  top: 51.05%;
-  left: 22.5%;
-  width: 54.7%;
-  height: 5.9%;
-  border-radius: 5px;
+  inset: 0;
+  width: 100%;
+  height: 100%;
   -webkit-tap-highlight-color: transparent;
 }
 
 .rsvp-section__link:focus-visible {
   outline: 3px solid #fff8e9;
-  outline-offset: 4px;
+  outline-offset: -6px;
 }
 
 .invitation-footer {
